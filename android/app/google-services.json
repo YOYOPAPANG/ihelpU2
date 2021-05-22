@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342539141350",
+    "project_id": "ihelpu-bc1ff",
+    "storage_bucket": "ihelpu-bc1ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342539141350:android:1a75282f684ddb09d2fb27",
+        "android_client_info": {
+          "package_name": "com.example.ihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342539141350-rmt8ovok7f3u8ob5pruqjuqetv75s4tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaEttNj_fK3AR4-2bOwtHU4Af170z4gcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342539141350-rmt8ovok7f3u8ob5pruqjuqetv75s4tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
