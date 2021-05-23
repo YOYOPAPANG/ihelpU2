@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:ihelp/screen/login.dart';
 import 'package:ihelp/screen/register.dart';
 
+import 'navigation.dart';
+
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -37,6 +39,18 @@ class HomeScreen extends StatelessWidget {
                       Navigator.push(context,
                           MaterialPageRoute(builder: (context) {
                         return LoginScreen();
+                      }));
+                    }),
+              ),
+              SizedBox(
+                width: double.infinity,
+                child: ElevatedButton.icon(
+                    icon: Icon(Icons.login),
+                    label: Text("map", style: TextStyle(fontSize: 20)),
+                    onPressed: () {
+                      Navigator.push(context,
+                          MaterialPageRoute(builder: (context) {
+                        return NavigationScreen();
                       }));
                     }),
               )
