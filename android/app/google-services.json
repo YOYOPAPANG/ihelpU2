@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "434971890605",
-    "project_id": "ihelpu-979e6",
-    "storage_bucket": "ihelpu-979e6.appspot.com"
+    "project_number": "65523323065",
+    "project_id": "ihelpu2-d38b5",
+    "storage_bucket": "ihelpu2-d38b5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:434971890605:android:d185e3743eed7b10b60724",
+        "mobilesdk_app_id": "1:65523323065:android:293f41cbff95ca84e14b68",
         "android_client_info": {
           "package_name": "com.example.ihelp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "434971890605-8h863ep7k65eb45jkga46574ofmigcnt.apps.googleusercontent.com",
+          "client_id": "65523323065-u4u18ve2h5cmvptvmsqr7jr9guojktnc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFwkaAh3XaiSz-RaJl0yHAka9eEhna7qM"
+          "current_key": "AIzaSyB3UpiSxtMIQlv135n1RzHpmmsqJNWDu7s"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "434971890605-8h863ep7k65eb45jkga46574ofmigcnt.apps.googleusercontent.com",
+              "client_id": "65523323065-u4u18ve2h5cmvptvmsqr7jr9guojktnc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
